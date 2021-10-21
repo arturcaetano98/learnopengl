@@ -1,0 +1,2 @@
+﻿  main.cpp
+C:\Users\Artur\source\repos\Teste\main.cpp(1,10): fatal error C1083: Não é possível abrir arquivo incluir: 'glad/glad.h': No such file or directory
